@@ -3,7 +3,7 @@ tryin to cope up
 
 I'm currently learning Node.js, Express.js, MongoDB, TypeScript, React, Next.js, and Vite to grow as a full-stack developer. My core tech stack includes Python, C, Java, and Flet, enabling me to build efficient, scalable, and user-friendly applications. 
 
-[![Email address](/assets/email.svg)](vishnuvenkatcrv@gmail.com)
+[![Email address](/assets/email.svg)](mailto:vishnuvenkatcrv@gmail.com)
 [![Linkedin profile](/assets/linkedin.svg)](https://www.linkedin.com/in/vishnu-c-v-1a85b7293/)
 
 
